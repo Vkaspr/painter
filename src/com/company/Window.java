@@ -138,7 +138,7 @@ public class Window extends JFrame implements MouseListener, MouseMotionListener
         else {
             coor.add(e.getPoint());
 
-            System.out.println("new string");
+            System.out.println("new string too");
             repaint();
         }
 
