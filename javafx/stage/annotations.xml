@@ -1,0 +1,5 @@
+<root>
+    <item name='javafx.stage.Screen'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
